@@ -12,7 +12,7 @@ Getting Started: https://mdb.link/AtlasForms
 Manual: https://mdb.link/AtlasFormsManual
 
 
-## Introduction
+## Introduction.
 
 Atlas forms is a Forms based, End user interface to allow users to Create, Find, Update, Delete and Link Records. It is similar to a Fourth Generation Language (4GL) in that it abstracts away all
 database development where required and makes a Zero Coding solution to building an internal GUI
